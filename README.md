@@ -9,7 +9,7 @@ Recuerda que necesitas el módulo "pygame" para que el juego se ejecute correcta
 
 1. Dependiendo de tu tipo de instalación (descargado desde la Microsoft Store o desde la página de Python), deberás reemplazar la palabra "py" por "python3" en los scripts batch (.bat).
 
-Si encuentras algún otro error, avisa ;)
+Si encuentras algún otro error, avísame ;)
 
 - Créditos:
 
