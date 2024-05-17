@@ -11,6 +11,8 @@ Recuerda que necesitas el módulo "pygame" para que el juego se ejecute correcta
 
 Si encuentras algún otro error, avísame ;)
 
+Edit 16/5/2024: El código está horrible, esto debería ser un crimen de guerra. Probablemente lo actualize pronto.
+
 - Créditos:
 
 Idea: FlexedGnu (José Miguel Jhon)
